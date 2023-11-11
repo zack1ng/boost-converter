@@ -17,11 +17,11 @@ Ideal for powering small devices that require a 12V supply, such as:
 Careful consideration was given to component selection and topology to ensure optimal performance and efficiency.
 
 ## PCB 3D Image
-![PCB 3D Image]([path/to/pcb_image.png](https://github.com/zack1ng/images/blob/main/PCB.png?raw=true))
+![PCB 3D Image](https://github.com/zack1ng/images/blob/main/PCB.png?raw=true)
 
 ## Simulation
 Simulation was performed using LTspice. The following graph illustrates the voltage progression from 5V to 12V over time.
-![LTspice Simulation]([path/to/simulation_image.png](https://github.com/zack1ng/images/blob/main/Simulation.png?raw=true))
+![LTspice Simulation](https://github.com/zack1ng/images/blob/main/Simulation.png?raw=true)
 
 ## Usage
 This project is designed for personal use, and the design files are not provided. You can, however, find a detailed description of the design process in the [design documentation](docs/design_documentation.md).
